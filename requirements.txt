@@ -1,0 +1,10 @@
+tensorflow>=2.15
+keras
+numpy
+pandas
+matplotlib
+nltk
+scikit-learn
+opencv-python
+Pillow
+tqdm
